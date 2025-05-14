@@ -33,12 +33,4 @@ A blogging platform where users can create, read, and manage blog posts. Built u
 A simple contacts management app that allows users to add, edit, and delete contacts efficiently.
 
 ---
-### 📩 Get in Touch
-Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
-
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-🌐 Portfolio Website: [Your Portfolio Website]
-
----
 ⭐ If you like my projects, don't forget to star the repositories! 😊
